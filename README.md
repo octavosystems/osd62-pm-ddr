@@ -1,5 +1,13 @@
-# osd62-pm-ddr
+# OSD62-PM DDR Configuration
 DDR configuration files for OSD62-PM. 
+
+## Package versions
+| Package | Version | 
+| ------- | ------- | 
+| TI SDK version | 10.10.10.04 |
+| TF-A | v2.11.0 |
+| U-Boot | 2024.04 | 
+| Linux Kernel | v6.6.58-ti | 
 
 # Usage
 This file needs to be included in R5 SPL for DDR configuration on OSD62x-PM device. 
